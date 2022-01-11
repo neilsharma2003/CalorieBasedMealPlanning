@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CalorieBasedMealPlanning/static/css/main.d579daf1.css",
+    "main.js": "/CalorieBasedMealPlanning/static/js/main.5464cb34.js",
+    "static/js/787.3c6e25c4.chunk.js": "/CalorieBasedMealPlanning/static/js/787.3c6e25c4.chunk.js",
+    "index.html": "/CalorieBasedMealPlanning/index.html",
+    "main.d579daf1.css.map": "/CalorieBasedMealPlanning/static/css/main.d579daf1.css.map",
+    "main.5464cb34.js.map": "/CalorieBasedMealPlanning/static/js/main.5464cb34.js.map",
+    "787.3c6e25c4.chunk.js.map": "/CalorieBasedMealPlanning/static/js/787.3c6e25c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d579daf1.css",
+    "static/js/main.5464cb34.js"
+  ]
+}
