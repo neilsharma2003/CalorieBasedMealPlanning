@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is created using HTML/CSS/JavaScript, ReactJS, spoonacular API and Luke Peavey's Quote API. Provides the user with a meal plan given calorie requirement. 
 
+View the master branch for source files whereas gh-pages contains the built code.
+
 ## Available Scripts
 
 In the project directory, you can run:
