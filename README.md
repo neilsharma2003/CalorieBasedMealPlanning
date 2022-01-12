@@ -1,4 +1,4 @@
-# Calorie Based Meal Planning 
+# Calorie Based Meal Planning Web App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is created using HTML/CSS/JavaScript, ReactJS, spoonacular API and Luke Peavey's Quote API. Provides the user with a meal plan given calorie requirement. 
 
