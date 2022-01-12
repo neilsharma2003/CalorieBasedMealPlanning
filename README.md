@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 View the master branch for source files whereas gh-pages contains the built code.
 
+## [Website Link](https://neilsharma2003.github.io/CalorieBasedMealPlanning/)
+
 ## Available Scripts
 
 In the project directory, you can run:
